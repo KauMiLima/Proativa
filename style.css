@@ -164,7 +164,7 @@ h2::after {
     object-fit: contain; /* Keeps the entire GIF visible without cropping */
 }
 img{
-    width: px;
+    width: 450px;
 }
 
 /* --- Produtos Section --- */
